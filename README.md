@@ -1,4 +1,4 @@
-[![By Ollieph](https://github.com/user-attachments/assets/c80adebc-1e8c-45c8-bd7f-6b83a4fc9759)](https://x.com/Ollieph_Ph)
+[![By Ollieph](https://github.com/user-attachments/assets/c80adebc-1e8c-45c8-bd7f-6b83a4fc9759)](https://x.com/Ollieph_Ph "Art by Ollieph, please follow them!")
 
 A VTuber passionate about coding, currently diving deep into Golang, Python, and PHP.
 
